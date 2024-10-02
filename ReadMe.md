@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on OY:GUL startup
+Currently working on OY:GUL project at OYSTARTECH
 
 
 # 💻 Tech Stack:
